@@ -33,3 +33,13 @@ To get started with the Insulin project, follow these steps:
 ## Contributing
 
 Contributions to this project are currently not accepted as it is intended for testing purposes. However, you are welcome to fork the repository and modify the code for your own use.
+![1](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/02ea4807-8ddd-4391-9d80-91468c09a04a)
+![2](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/fec9244b-7384-4ab7-b137-e02569e2bf1e)
+![3](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/167ea1b8-ad03-495a-bcac-4e0509f2dc5c)
+![4](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/032f238e-5a70-4f42-aac6-41e2fe783dd6)
+![5](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/f8f27cfd-b3c1-4df6-a193-548a8a9d00fe)
+![6](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/4bb8d5d9-7f6e-45fb-ad2c-2d1ede21ac08)
+![7](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/531eef0d-b1e8-4cca-ad8a-1ed3f9938553)
+![8](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/94daf2ab-4963-48ae-9bdd-e8e8b30a8cc5)
+![9](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/8e7521d8-e830-4ae6-9025-a99472a06b24)
+
