@@ -25,14 +25,17 @@ Please note that this project is primarily for testing purposes and may require 
 To get started with the Insulin project, follow these steps:
 
 1. Clone this repository to your local machine.
-
 2. Install the required dependencies and set up the project according to the provided instructions.
-
 3. Start the system and access it through your preferred web browser.
 
 ## Contributing
 
 Contributions to this project are currently not accepted as it is intended for testing purposes. However, you are welcome to fork the repository and modify the code for your own use.
+
+## Live Project URL
+
+You can access the live project using the following URL: [http://bit.ly/insulin2022](http://bit.ly/insulin2022)
+
 ![1](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/02ea4807-8ddd-4391-9d80-91468c09a04a)
 ![2](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/fec9244b-7384-4ab7-b137-e02569e2bf1e)
 ![3](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/167ea1b8-ad03-495a-bcac-4e0509f2dc5c)
@@ -42,4 +45,3 @@ Contributions to this project are currently not accepted as it is intended for t
 ![7](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/531eef0d-b1e8-4cca-ad8a-1ed3f9938553)
 ![8](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/94daf2ab-4963-48ae-9bdd-e8e8b30a8cc5)
 ![9](https://github.com/AhmadSaleh2001/Web-Freelance/assets/79485253/8e7521d8-e830-4ae6-9025-a99472a06b24)
-
